@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Aşıların otizm yaptığını düşünüyorum.",
+    "slug": "ailarin-otizm-yaptigini-dusunuyorum",
+    "child": [
+      {
+        "title": "Aşı hakkında yanlış bilinen gerçekler.",
+        "slug": "https://asi.saglik.gov.tr/asi-gercekleri"
+      }
+    ],
+    "categories": ["c"]
+  },
+  {
+    "title": "Aşıdaki mRNA'nın vücutta başka problemlere sebep olacağını düşünüyorum.",
+    "categories": ["g"]
+  },
+  {
+    "title": "Aşı içinde çip olduğunu düşünüyorum.",
+    "categories": ["d"]
+  },
+  {
+    "title": "Aşının yeterli Faz 3 çalışması yok.",
+    "categories": ["e", "f"]
+  },
+  {
+    "title": "İtalyan doktor bu aşının faydasız olduğunu söyledi.",
+    "categories": ["e"]
+  },
+  {
+    "title": "Aşının otoimmun hastalıklara sebep olduğunu düşünüyorum.",
+    "categories": ["c"]
+  },
+  {
+    "title": "Aşıda civa kullanıldığını düşünüyorum.",
+    "categories": ["c"]
+  },
+  {
+    "title": "Aşıların içinde alüminyum bileşikleri olduğunu düşünüyorum.",
+    "categories": ["c"]
+  },
+  {
+    "title": "Aşılarda domuz jelatini olduğunu düşünüyorum.",
+    "categories": ["c"]
+  },
+  {
+    "title": "Aşıda formaldehitin olduğunu düşünüyorum.",
+    "categories": ["c"]
+  },
+  {
+    "title": "Aşıların kısırlık yaptığını düşünüyorum.",
+    "categories": ["c"]
+  },
+  {
+    "title": "Aşıların ilaç firmalarının yalanı olduğunu düşünüyorum.",
+    "categories": ["c"]
+  }
+]
